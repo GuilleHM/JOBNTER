@@ -13,7 +13,7 @@ He intentado escribir estas instrucciones para que incluso aquellas personas con
 - Asegúrate de tener Python 3.X instalado en tu ordenador (puedes obtenerlo en este [enlace](https://www.python.org/downloads/)).
 - Abre un terminal (suponiendo que eres un usuario de Windows, esta es la "ventana de ejecucion de comandos del sistema de Windows" - si no sabes lo que es esto, puedes encontrarlo fácilmente haciendo una búsqueda en Google).
 - Ejecuta este comando (simplemente esrcríbelo, sin las comillas, y pulsa enter): "pip install -U sys time random os csv datetime pyautogui beautifulsoup4 pandas selenium".
-- Una vez se termine la ejecución del comando anterior, ¡Ejecuta jobnter.py y relájate!
+- Una vez se termine la ejecución del comando anterior, ¡ejecuta jobnter.py y relájate!
 
 Nota: JOBNTER está preconfigurado para aplicar a 100 posiciones abiertas cada vez que lo ejecutas, comenzando por la más reciente. Puedes cambiar esta configuración y ejecutarlo tantas veces como desees...simplemente da a LinkedIn el tiempo suficiente para actualizar su sitio con nuevas oportunidades y ejecuta JOBNTER nuevamente.
 
